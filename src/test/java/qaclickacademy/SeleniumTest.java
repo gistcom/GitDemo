@@ -21,4 +21,15 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUI");
 	}
+	@Test
+	public void BrowserAutomation3()
+	{
+		System.out.println("BrowserAutomation");
+		System.out.println("BrowserAutomation1");
+		System.out.println("BrowserAutomation2");
+		//This is USA modification
+		System.out.println("BrowserAutomation");
+		System.out.println("BrowserAutomation5");
+		System.out.println("BrowserAutomation4");
+	}
 }
